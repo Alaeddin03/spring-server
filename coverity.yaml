@@ -1,0 +1,7 @@
+analyze:
+  location: local
+commit:
+  connect:
+    ca-certs-file: /home/appsec/Documents/ca-cert-new.pem
+    stream: spring-server
+    url: http://localhost:8080

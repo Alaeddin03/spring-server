@@ -35,3 +35,4 @@ build/
 ### Scan ###
 idir/
 coverage/
+.codesight/
